@@ -6,7 +6,7 @@ export class GirlController {
   getGirls(): any {
     return {
       code: 0,
-      data: ['翠花', '小红', '大丫'],
+      data: ['翠花', '小红', '大丫', '测试'],
       msg: '请求女孩列表成功',
     };
   }

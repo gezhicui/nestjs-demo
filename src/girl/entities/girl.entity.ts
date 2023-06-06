@@ -6,8 +6,8 @@ export class Girl {
   @PrimaryGeneratedColumn('uuid')
   id: number;
 
-  // @Generated('uuid')
-  // uuid: string;
+  @Generated('uuid')
+  uuid: string;
 
   @Column({ type: 'varchar', length: 255 })
   name: string;

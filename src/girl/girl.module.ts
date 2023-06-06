@@ -7,6 +7,19 @@ import { Girl } from './entities/girl.entity';
 @Module({
   imports: [TypeOrmModule.forFeature([Girl])],
   controllers: [GirlController],
-  providers: [GirlService],
+  // providers: [GirlService],
+  providers: [
+    {
+      provide: 'girl',
+      useClass: GirlService,
+    },
+    {
+      provide: 'MyFactory',
+      useFactory() {
+        console.log('myFactory---------:');
+        return 'console.log() function';
+      },
+    },
+  ],
 })
 export class GirlModule {}

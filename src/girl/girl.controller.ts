@@ -19,6 +19,11 @@ export class GirlController {
     @Inject('MyFactory') private myFactory: string,
   ) {}
 
+  @Get('/corstest')
+  corsTest(): object {
+    return { message: '测试跨域请求成功' };
+  }
+
   @Get('/hotLoad')
   hotLoad(): any {
     return 'HotLoad Function';

@@ -18,7 +18,6 @@ export class GirlController {
     @Inject('girl') private girlService: GirlService,
     @Inject('MyFactory') private myFactory: string,
   ) {}
-
   @Get('/corstest')
   corsTest(): object {
     return { message: '测试跨域请求成功' };

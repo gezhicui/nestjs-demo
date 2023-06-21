@@ -22,6 +22,7 @@ import { CounterMiddleware } from 'src/counter.middleware';
       },
     },
   ],
+  exports: [GirlService],
 })
 export class GirlModule implements NestModule {
   configure(consumer: MiddlewareConsumer) {

@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<map><toolEnabled>true</toolEnabled><mappings><mapMapping>
+  <sourceLocation><host>admin.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>admin.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>opmtest.pupuvip.com</host></sourceLocation>
+  <destLocation><host>opm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>scm.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>scm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ja.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>ja.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>partner.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>partner.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>j.api.dev.pupuvip.com</host>
+<path>/store/admin_user_stores</path></sourceLocation>
+  <destLocation><host>ja.f1228512.shared.befreesh.com</host>
+<path>/admin/store/admin-user-store</path>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>j.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>j.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapp.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapp.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>mi.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>mi.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>a.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>a.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>c.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>c.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ma.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>ma.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>m.pupuvip.com</host></sourceLocation>
+  <destLocation><host>m.dev.pupuvip.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ma.pupuvip.com</host></sourceLocation>
+  <destLocation><host>ma.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>auth.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>auth.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>sems.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>sems.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>msems.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>msems.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>sems.pupuvip.com</host></sourceLocation>
+  <destLocation><host>sems.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>semsapi.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>semsapi.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>push.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>push.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>cauth.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>cauth.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>activity.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>activity.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>opm.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>opm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>opm.befreesh.com</host></sourceLocation>
+  <destLocation><host>opm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webappopm.befreesh.com</host></sourceLocation>
+  <destLocation><host>webappopm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>scm.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>scm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>bwy.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>bwy.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>opmpublictest.pupuvip.com</host></sourceLocation>
+  <destLocation><host>opmpublictest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestbi.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestbi.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestsecops.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestsecops.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestseries.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestseries.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestfm.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestfm.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestplatform.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestplatform.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>dhr.dev.pupumall.net</host></sourceLocation>
+  <destLocation><host>dhr.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>dhr.test.pupufz.com</host></sourceLocation>
+  <destLocation><host>dhr.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>itools.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>dhritools.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>wj.dev.pupumall.net</host></sourceLocation>
+  <destLocation><host>dhrwj.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>partner.dev.pupumall.net</host></sourceLocation>
+  <destLocation><host>dhrpartner.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>uc.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>uc.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ad.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>ad.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>uc.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>uc.api.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oauth.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>oauth.api.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oauth.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>oauth.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>test.ppuri.cn</host></sourceLocation>
+  <destLocation><host>j.f1228512.shared.befreesh.com</host>
+<path>/client/media/shortlink/</path>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>mems.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>mems.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>putest.pupuvip.com</host></sourceLocation>
+  <destLocation><host>putest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapptestputestplatform.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapptestputestplatform.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>bigdata.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>bigdata.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>opmplatformtest.pupuvip.com</host></sourceLocation>
+  <destLocation><host>opmplatformtest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>dms.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>dms.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>jd.api.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>jd.api.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>fe-portaltest.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>fe-portaltest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>janusdashboard.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>janusdashboard.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>platformtest.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>platformtest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ai.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>ai.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>ma.dev.pupufz.com</host></sourceLocation>
+  <destLocation><host>ma.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>platformtest.api.pupuvip.com</host></sourceLocation>
+  <destLocation><host>platformtest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>zhurongdev.api.pupuvip.com</host></sourceLocation>
+  <destLocation><host>zhurong.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>jobs.test.pupufz.com</host></sourceLocation>
+  <destLocation><host>jobs.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>webapppaastest.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>webapppaastest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>paastest.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>paastest.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>csms.dev.pupuvip.com</host></sourceLocation>
+  <destLocation><host>csms.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>im.dev.pupufz.com</host></sourceLocation>
+  <destLocation><host>im.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oms.befreesh.com</host></sourceLocation>
+  <destLocation><host>oms.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oms.pupufz.com</host></sourceLocation>
+  <destLocation><host>oms.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oms.api.befreesh.com</host></sourceLocation>
+  <destLocation><host>oms.api.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping><mapMapping>
+  <sourceLocation><host>oms.api.pupufz.com</host></sourceLocation>
+  <destLocation><host>oms.api.f1228512.shared.befreesh.com</host>
+<protocol>http</protocol></destLocation>
+  <preserveHostHeader>false</preserveHostHeader>
+  <enabled>true</enabled>
+</mapMapping></mappings></map>
